@@ -3,3 +3,4 @@ dnspython
 colorclass
 netaddr
 ipaddress
+pytest-runner
